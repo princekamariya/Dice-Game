@@ -12,8 +12,7 @@ It is Simple two player dice game. Once the user clicks on Roll the Dice button,
 
 ## Deployment
 
-Demo: https://rosajen27.github.io/dicegame/
-
+Demo:
 
 
 ## Screenshots
