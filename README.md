@@ -12,7 +12,7 @@ It is Simple two player dice game. Once the user clicks on Roll the Dice button,
 
 ## Deployment
 
-Demo:
+Demo: https://dice-game-00bc02.netlify.app/
 
 
 ## Screenshots
