@@ -1,4 +1,3 @@
-
 # 🎲 Dice Game 🎲
 
 It is Simple two player dice game. Once the user clicks on Roll the Dice button, the dice will get thrown randomly, and player 1 and player 2 both have their own dice values and a winner depending on whose dice value was higher.
